@@ -1,0 +1,7 @@
+# Ignore macOS and Xcode system files
+.DS_Store
+*.xcuserdatad
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+DerivedData/
+build/
